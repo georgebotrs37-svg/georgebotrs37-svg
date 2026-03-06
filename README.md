@@ -1,6 +1,6 @@
  👋 Hi, I'm George Botrs Azer!
 
-### 🚀 Full Stack Software Engineer | SOC Analyst Trainee | Blue Team Enthusiast
+🚀 Full Stack Software Engineer | SOC Analyst Trainee | Blue Team Enthusiast
 
 Passionate about building secure applications and defending digital assets. I bridge the gap between software development and cybersecurity.
 
